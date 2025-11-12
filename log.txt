@@ -1,3 +1,7 @@
+6a1cac7 Task 2.4 completed and some bug fixes
+6c5d521 Task 2.3 completed
+365e33a Task 2.2 completed
+104fc95 Task 2.1 completed
 4e0d0eb Task 2.1 steps 1 to 4 completed
 c2fbf50 Task 1.2 completed
 5eef9bf Task 1.1 completed
